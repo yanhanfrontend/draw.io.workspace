@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T12:27:20.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="TM7hcmdt0wnM5sfuJFkm" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T12:28:48.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GsxKJDIWTBd4Q8uyvmnU" version="24.4.4" type="github">
   <diagram name="第 1 页" id="UYUwiCnkENyaOBLrZns0">
     <mxGraphModel dx="2048" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -116,7 +116,15 @@
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-27" target="H-W_XZ9JoSp4LIZaos0a-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-27" value="金钱" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-27" target="H-W_XZ9JoSp4LIZaos0a-74">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="610" />
+              <mxPoint x="-260" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-27" value="金钱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="360" y="680" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-32" value="财富" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -163,7 +171,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-66" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-66" target="H-W_XZ9JoSp4LIZaos0a-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-66" value="时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-280" y="740" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-68" target="H-W_XZ9JoSp4LIZaos0a-62">
@@ -192,7 +203,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-70" value="自身" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-70" value="自身" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-340" y="690" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-74" target="H-W_XZ9JoSp4LIZaos0a-68">
@@ -201,7 +212,7 @@
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-74" target="H-W_XZ9JoSp4LIZaos0a-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-74" value="知识" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-74" value="知识" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-280" y="650" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
