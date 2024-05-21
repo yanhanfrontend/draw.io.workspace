@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T11:27:28.280Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="W9kFFVEhH-3uW4rttfjy" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T11:28:01.326Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5t9mniYaRA6yDrGvXU9Q" version="24.4.4" type="github">
   <diagram name="第 1 页" id="fa3JzIOEpzAEIbz7c-mS">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,22 +47,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-6" value="静态文件优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-7" value="图片优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-8" value="HTML优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="460" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="500" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-9" value="CSS优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="560" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-10" value="JS优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="580" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="620" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-11" value="字体优化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="680" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-21" value="减少HTTP请求数，合并JS、CSS,合理内嵌CSS、JS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="260" y="110" width="290" height="40" as="geometry" />
@@ -92,10 +92,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-29" value="重排（回流）Reflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="280" y="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-30" value="重绘 Repaint" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="440" y="360" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
