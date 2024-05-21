@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T11:13:49.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_feVEquPAVKoACMzVFpb" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T11:14:48.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="MCOKRk_wZkthYTLj8Xi3" version="24.4.4" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,26 @@
         <mxCell id="h8L9wSWyl7yfmNhZgXrv-2" value="比较" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h8L9wSWyl7yfmNhZgXrv-3" target="h8L9wSWyl7yfmNhZgXrv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="h8L9wSWyl7yfmNhZgXrv-3" value="因果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="h8L9wSWyl7yfmNhZgXrv-4" target="h8L9wSWyl7yfmNhZgXrv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-4" value="一维因果线条" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="h8L9wSWyl7yfmNhZgXrv-5" target="h8L9wSWyl7yfmNhZgXrv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-5" value="二维因果网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h8L9wSWyl7yfmNhZgXrv-6" value="三维因果系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="280" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
