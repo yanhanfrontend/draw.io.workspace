@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T12:49:22.665Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="SNFqoA24Olc_a-yWWg1H" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T12:51:15.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DusdNC8lcKl2KzUlmPSs" version="24.4.4" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,6 +39,36 @@
         </mxCell>
         <mxCell id="ok2qa2rdygMP8ssIFKAk-2" value="描述" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-4" value="决策" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-5" value="流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-6" value="关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="460" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-7" value="维度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-8" value="未知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="580" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-9" value="曙光" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-10" value="类比" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="700" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-11" value="发展" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-12" value="简单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="820" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ok2qa2rdygMP8ssIFKAk-13" value="升级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="880" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
