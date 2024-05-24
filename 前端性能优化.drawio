@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T13:02:57.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="i0NBdF9waJGG83ZhmRYr" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T13:08:39.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_fEtCwDQQfM6rYdzDgRZ" version="24.4.6" type="github">
   <diagram name="第 1 页" id="fa3JzIOEpzAEIbz7c-mS">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,41 +124,38 @@
         <mxCell id="NSkligS_rQyxowmOvO4k-41" value="&lt;div&gt;脱离文档流&lt;/div&gt;&lt;div&gt;渲染时给图片增加固定宽高&lt;/div&gt;&lt;div&gt;尽量使用css3 动画&lt;/div&gt;&lt;div&gt;可以使用will-change提取到单独的图层中&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="790" y="525" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zD0Xw_IBZpKbBdzINucS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-2" target="zD0Xw_IBZpKbBdzINucS-15">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-2" target="zD0Xw_IBZpKbBdzINucS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-2" value="渲染引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="1110" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-3" value="JS引擎" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="1230" width="80" height="40" as="geometry" />
+          <mxGeometry x="820" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-4" value="HTML解释器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1230" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-11" value="图片解码器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1170" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-12" value="音视频" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1110" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-13" value="图形" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="1230" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-14" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1050" width="80" height="40" as="geometry" />
+          <mxGeometry x="600" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-15" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="990" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="1370" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-16" value="布局" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="1230" width="80" height="40" as="geometry" />
+          <mxGeometry x="540" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-17" value="css 解释器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1230" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-22" target="zD0Xw_IBZpKbBdzINucS-2">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +164,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-22" value="渲染过程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="120" y="1300" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-24" target="zD0Xw_IBZpKbBdzINucS-26">
           <mxGeometry relative="1" as="geometry" />
@@ -179,7 +176,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-24" value="将 html 文档经过词法分析输出 DOM 树" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="1300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-26" target="zD0Xw_IBZpKbBdzINucS-27">
           <mxGeometry relative="1" as="geometry" />
@@ -209,19 +206,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-28" value="进行具体的图像绘制 , 将像素渲染到屏幕上" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="650" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="670" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-29" target="zD0Xw_IBZpKbBdzINucS-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-29" value="编译 执行 js 代码" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1300" width="100" height="40" as="geometry" />
+          <mxGeometry x="810" y="1300" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-4" target="zD0Xw_IBZpKbBdzINucS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-47" value="css 阻塞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1080" width="70" height="40" as="geometry" />
+          <mxGeometry x="200" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-48" target="zD0Xw_IBZpKbBdzINucS-74">
           <mxGeometry relative="1" as="geometry" />
@@ -233,42 +230,42 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-48" value="js 的加载方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1080" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-49" target="zD0Xw_IBZpKbBdzINucS-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-49" value="js 阻塞" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="1080" width="80" height="40" as="geometry" />
+          <mxGeometry x="320" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-50" target="zD0Xw_IBZpKbBdzINucS-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-50" value="渲染树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="1450" width="80" height="40" as="geometry" />
+          <mxGeometry x="334" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-51" target="zD0Xw_IBZpKbBdzINucS-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-51" value="CSSOM 树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1370" width="80" height="40" as="geometry" />
+          <mxGeometry x="400" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-52" target="zD0Xw_IBZpKbBdzINucS-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-52" value="DOM 树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1370" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="1360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-57" target="zD0Xw_IBZpKbBdzINucS-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-57" value="&lt;span style=&quot;text-align: center;&quot;&gt;布局渲染树&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1530" width="100" height="40" as="geometry" />
+          <mxGeometry x="337" y="1520" width="74" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-58" value="&lt;span style=&quot;text-align: center;&quot;&gt;绘制渲染树&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="324" y="1610" width="100" height="40" as="geometry" />
+          <mxGeometry x="334" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zD0Xw_IBZpKbBdzINucS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-61" target="zD0Xw_IBZpKbBdzINucS-4">
+        <mxCell id="zD0Xw_IBZpKbBdzINucS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-61" target="zD0Xw_IBZpKbBdzINucS-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-61" target="zD0Xw_IBZpKbBdzINucS-47">
@@ -278,48 +275,48 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-61" value="html css js 都具有阻塞渲染的特性" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1160" width="100" height="40" as="geometry" />
+          <mxGeometry x="240" y="1160" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-69" target="zD0Xw_IBZpKbBdzINucS-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-69" value="&lt;div&gt;因为 DOM Tree + CSSOM = Render Tree 所以只要 css 没加载完 就不会往后走渲染流程&lt;/div&gt;&lt;div&gt;由于 html 解析到 &amp;lt;link /&amp;gt; 和 &amp;lt;style /&amp;gt;标签的时候 CSSOM 才开始构建 . 所以可以尽可能把构建时机提前.&lt;/div&gt;&lt;div&gt;比如 :&lt;/div&gt;&lt;div&gt;放在 &amp;lt;head /&amp;gt; 里 (尽早)&lt;/div&gt;&lt;div&gt;启用 CDN (尽快)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="370" y="880" width="150" height="160" as="geometry" />
+          <mxGeometry x="160" y="880" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;dashPattern=1 4;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-71" target="zD0Xw_IBZpKbBdzINucS-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-71" value="js 的作用在于 修改节点 , 本质上都是对 DOM 和 CSSOM 进行修改 , 所以 JS 的执行会阻塞" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="560" y="990" width="170" height="50" as="geometry" />
+          <mxGeometry x="360" y="980" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-74" value="正常模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1020" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="1020" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-75" value="async 模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1080" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="1080" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-76" value="defer 模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="840" y="1140" width="80" height="40" as="geometry" />
+          <mxGeometry x="580" y="1140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-80" target="zD0Xw_IBZpKbBdzINucS-74">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1067" y="1080" as="sourcePoint" />
+            <mxPoint x="807" y="1080" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-80" value="这种模式下会阻塞&lt;div&gt;&amp;lt;script src=&quot;./index.js&quot; /&amp;gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1020" width="160" height="40" as="geometry" />
+          <mxGeometry x="700" y="1020" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-82" target="zD0Xw_IBZpKbBdzINucS-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-82" value="&lt;div&gt;&lt;div&gt;async 模式下，JS 不会阻塞浏览器做任何其它的事情。它的加载是异步的，当它加载结束，JS 脚本会立即执行。&lt;/div&gt;&lt;div&gt;&amp;lt;script async src=&quot;./index.js&quot; /&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1075" width="310" height="50" as="geometry" />
+          <mxGeometry x="700" y="1075" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-83" target="zD0Xw_IBZpKbBdzINucS-76">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-83" value="&lt;div&gt;&lt;div&gt;defer 模式下，JS 的加载是异步的，执行是被推迟的。等整个文档解析完成、DOMContentLoaded 事件即将被触发时，被标记了 defer 的 JS 文件才会开始依次执行。&lt;/div&gt;&lt;div&gt;&amp;lt;script defer src=&quot;./index.js&quot; /&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1135" width="473" height="50" as="geometry" />
+          <mxGeometry x="700" y="1135" width="473" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
