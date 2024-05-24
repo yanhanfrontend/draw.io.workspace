@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T13:40:38.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IxYOrZZxbxv6hBmNLI5T" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T13:41:27.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ymICPORXgW6rt3mCGH-E" version="24.4.8" type="github">
   <diagram name="第 1 页" id="B3NVgEC1TPL2r2JH5KPZ">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,56 +79,110 @@
         <mxCell id="o9pA-VV171bVuTWOxK52-27" value="赛点思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-30" target="o9pA-VV171bVuTWOxK52-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-30" value="随意选择的人生，不值得一过" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-32" target="o9pA-VV171bVuTWOxK52-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-32" value="小机会随便错过，大机会死命抓住" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="40" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-33" target="o9pA-VV171bVuTWOxK52-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-33" value="学会放弃，做无情的优先排序者" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-39" target="o9pA-VV171bVuTWOxK52-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-39" value="框架大于勤奋，所有成长均需借势" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="120" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-40" target="o9pA-VV171bVuTWOxK52-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-40" value="你学得了别人勤奋，但学不了动机" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-41" target="o9pA-VV171bVuTWOxK52-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-41" value="不是成本决定价格，而是价格决定成本" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="800" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-42" target="o9pA-VV171bVuTWOxK52-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-42" value="一个人审视自己行为的底层逻辑" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-43" target="o9pA-VV171bVuTWOxK52-6">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-43" value="做任何事情，都要积累代表作" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="880" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-44" target="o9pA-VV171bVuTWOxK52-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-44" value="别沉迷能赚钱的当下，失去更值钱的未来" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="760" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-45" target="o9pA-VV171bVuTWOxK52-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-45" value="最聪明的人不只看钱，一切皆有性价比" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="200" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-46" target="o9pA-VV171bVuTWOxK52-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-46" value="所有的伤害都相互的，所有利他都是利己的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="240" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-47" target="o9pA-VV171bVuTWOxK52-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-47" value="为啥我比你强很多，但赚得比你少很多" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-48" target="o9pA-VV171bVuTWOxK52-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-48" value="没有人能持续跨越周期，普通人永远都有新机会" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="720" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-49" target="o9pA-VV171bVuTWOxK52-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-49" value="越对未来有信心，越对当下有耐心" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="680" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-50" target="o9pA-VV171bVuTWOxK52-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-50" value="你看见的都是静态的，判断都应该是动态的" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-51" target="o9pA-VV171bVuTWOxK52-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-51" value="用鲁莽定律开局，用迭代思维持续行动" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="600" width="240" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-52" target="o9pA-VV171bVuTWOxK52-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-52" value="人是环境的产物，你必须持续优化环境" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="560" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-53" target="o9pA-VV171bVuTWOxK52-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-53" value="知之者大赚，不知之者被赚" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="200" height="40" as="geometry" />
@@ -141,23 +195,44 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-54" target="o9pA-VV171bVuTWOxK52-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-54" value="人被什么所激励，就会为什么卖命" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="480" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-55" target="o9pA-VV171bVuTWOxK52-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-55" value="拿不到结果的高效，是最大的懒惰" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="440" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-56" target="o9pA-VV171bVuTWOxK52-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-56" value="没有真实反馈，就没有增强回路" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-57" target="o9pA-VV171bVuTWOxK52-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-57" value="同体量竞争，找到变量的人赢" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="360" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-58" target="o9pA-VV171bVuTWOxK52-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-58" value="只有专注，才能同时做好很多事" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="200" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-59" target="o9pA-VV171bVuTWOxK52-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-59" value="个人能力封装成内容产品，10倍财富增长" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="920" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="o9pA-VV171bVuTWOxK52-60" target="o9pA-VV171bVuTWOxK52-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o9pA-VV171bVuTWOxK52-60" value="人生所有的美好结果，都不会自然发生" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="280" y="960" width="240" height="40" as="geometry" />
