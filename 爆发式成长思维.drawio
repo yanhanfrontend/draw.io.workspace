@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T13:24:54.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.8" etag="K1XmDKR1_B8WkPL3dzmx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T13:29:49.474Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="HQFq2AFKSjs3gD6Is8e8" version="24.4.8" type="github">
   <diagram name="第 1 页" id="B3NVgEC1TPL2r2JH5KPZ">
-    <mxGraphModel>
+    <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o9pA-VV171bVuTWOxK52-1" value="筛选思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-4" value="实战思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="960" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-5" value="写作思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-6" value="作品思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="880" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-7" value="品牌思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-8" value="市场思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-9" value="投资思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-10" value="周期思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-11" value="长期思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-12" value="动态思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-13" value="迭代思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="600" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-14" value="环境思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-15" value="复利思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-16" value="激励思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-17" value="结果思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-18" value="真实思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-19" value="变量思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-20" value="专注思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-21" value="多维思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-22" value="利他思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-23" value="成本思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-24" value="原力思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-25" value="借势思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-26" value="战略思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="o9pA-VV171bVuTWOxK52-27" value="赛点思维" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
