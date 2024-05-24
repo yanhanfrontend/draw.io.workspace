@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T12:58:57.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="l6xa0UnfLPQF6JUOaNLo" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T12:59:18.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="A6jNkwAtHSFSml5y1n0-" version="24.4.6" type="github">
   <diagram name="第 1 页" id="fa3JzIOEpzAEIbz7c-mS">
     <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -305,7 +305,7 @@
           <mxGeometry x="960" y="1100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-76" value="defer 模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1160" width="80" height="40" as="geometry" />
+          <mxGeometry x="960" y="1165" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-80" target="zD0Xw_IBZpKbBdzINucS-74">
           <mxGeometry relative="1" as="geometry">
@@ -325,7 +325,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-83" value="&lt;div&gt;&lt;div&gt;defer 模式下，JS 的加载是异步的，执行是被推迟的。等整个文档解析完成、DOMContentLoaded 事件即将被触发时，被标记了 defer 的 JS 文件才会开始依次执行。&lt;/div&gt;&lt;div&gt;&amp;lt;script defer src=&quot;./index.js&quot; /&amp;gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="1155" width="473" height="50" as="geometry" />
+          <mxGeometry x="1080" y="1160" width="473" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
