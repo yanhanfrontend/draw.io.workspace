@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:49:37.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="M7znLM--s6TGpNfV8tJ-" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:50:21.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H2vpFznc1sB4qEpFvylc" version="24.4.8" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="2048" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-41" value="客观的判断依据才可以量化，才能精确比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-43" value="当多个判断依据存在时，可以对判断依据进行分类，并给予不同的权重" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
