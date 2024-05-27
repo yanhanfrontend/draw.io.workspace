@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T15:47:07.287Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="66BQPQ-aUnx85kX440xR" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T15:48:04.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IN0s3VbPRJKg2eTtrPKP" version="24.4.8" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="2048" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,6 +153,12 @@
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-37" value="同一个种类的不同事物之间的相同属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="80" y="340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UPUVpUkwkENNJ1alas6Y-39" target="UPUVpUkwkENNJ1alas6Y-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-39" value="主观的判断依据不可争辩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="340" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
