@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T16:11:46.874Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zUHu8UL3hhdpvf2kqBlf" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T16:15:49.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="j7wHPKI7VlZJ5PCjEp14" version="24.4.8" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,14 +182,13 @@
         <mxCell id="UPUVpUkwkENNJ1alas6Y-54" value="严谨的科学研究中的因果关系耗时、费力、伤财" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="350" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UPUVpUkwkENNJ1alas6Y-56" target="UPUVpUkwkENNJ1alas6Y-54">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="UPUVpUkwkENNJ1alas6Y-58" target="UPUVpUkwkENNJ1alas6Y-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="370" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-56" value="为了降低难度采用的日常生活中的因果判断法" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="340" y="350" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-58" value="1.A真的是B的原因吗？&lt;div&gt;2.&lt;/div&gt;&lt;div&gt;3.&lt;/div&gt;&lt;div&gt;4&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="520" y="320" width="140" height="80" as="geometry" />
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-58" value="&lt;div&gt;为了降低难度采用的日常生活中的因果判断法：&lt;br&gt;&lt;/div&gt;1.A&lt;span style=&quot;background-color: initial;&quot;&gt;是B的原因吗？&lt;/span&gt;&lt;div&gt;&lt;div&gt;2.如果是的话，那A是B的唯一原因吗？&lt;/div&gt;&lt;div&gt;3.如果A不是B的唯一原因，还有哪些原因呢？&lt;/div&gt;&lt;div&gt;4.如果有很多原因，那A是不是B的主要原因？&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
