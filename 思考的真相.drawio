@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T12:42:26.048Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="yA66kKv6d0315zf-wokS" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T12:49:23.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7UmcQAE67bywM-iLqsXs" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1461" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,6 +119,12 @@
           <mxGeometry x="160" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-20" target="UPUVpUkwkENNJ1alas6Y-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPUVpUkwkENNJ1alas6Y-20" target="YHo1rwwwruHPMsUzTiB2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPUVpUkwkENNJ1alas6Y-20" target="YHo1rwwwruHPMsUzTiB2-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-20" value="由一个或多个概念构成的整体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -371,6 +377,26 @@
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-59" value="事物由定义描述清楚，分类、比较、因果分析可以确定事物间的联系" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="840" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-61" value="从属关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="50" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHo1rwwwruHPMsUzTiB2-62" target="YHo1rwwwruHPMsUzTiB2-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHo1rwwwruHPMsUzTiB2-62" target="YHo1rwwwruHPMsUzTiB2-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-62" value="同属关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-65" value="相交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="90" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-66" value="不相交" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="130" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
