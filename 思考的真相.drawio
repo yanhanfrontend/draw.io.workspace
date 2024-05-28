@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T14:14:10.743Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="B9hnwtdpxarZxQK5s10e" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T14:15:21.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AxbqCRiT2fLNpthCz9JS" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -489,14 +489,8 @@
         <mxCell id="YHo1rwwwruHPMsUzTiB2-117" value="形式逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1680" y="760" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YHo1rwwwruHPMsUzTiB2-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YHo1rwwwruHPMsUzTiB2-118" target="YHo1rwwwruHPMsUzTiB2-119">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-118" value="统计概率" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1920" y="760" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="YHo1rwwwruHPMsUzTiB2-119" value="概率论" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2040" y="760" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHo1rwwwruHPMsUzTiB2-120" target="YHo1rwwwruHPMsUzTiB2-117">
           <mxGeometry relative="1" as="geometry" />
