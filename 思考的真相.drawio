@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T13:04:48.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="I2x-eifS4PhTF8savHqu" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T13:05:40.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="C_6CR7GA0ndStUcND2Ik" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1461" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -437,6 +437,12 @@
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-78" value="相关关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YHo1rwwwruHPMsUzTiB2-87" target="YHo1rwwwruHPMsUzTiB2-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YHo1rwwwruHPMsUzTiB2-87" value="来源于同一个原因的不同结果分支" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
