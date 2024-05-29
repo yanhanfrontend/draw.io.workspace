@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T13:01:38.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s8vPm8O-aq45_C1pWqCr" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T13:07:27.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="pHWo8Qgr4fMkgeXLwpQR" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-10" value="举一反三的工具：&lt;div&gt;这个道理还能用在什么地方呢？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="350" width="199" height="40" as="geometry" />
+          <mxGeometry x="2481" y="360" width="179" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-12" target="YSbeaJh5YVR08KdDeruy-6">
           <mxGeometry relative="1" as="geometry" />
@@ -626,8 +626,8 @@
         <mxCell id="YSbeaJh5YVR08KdDeruy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-14" target="YSbeaJh5YVR08KdDeruy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-14" value="从平行线联想到朋友关系，从地球逃逸速度联想到赚钱速度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="350" width="160" height="40" as="geometry" />
+        <mxCell id="YSbeaJh5YVR08KdDeruy-14" value="从平行线联想到朋友关系&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从地球逃逸速度联想到赚钱速度&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从质量越大引力越大联想到知识越多的人吸引力越大&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从组成物质需要不同的元素和比例联想到形成公司需要不同的特点和数量的人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2700" y="320" width="300" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
