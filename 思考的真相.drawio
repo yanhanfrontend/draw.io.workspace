@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T14:08:59.340Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="82oggruauxcAS27QBJ4g" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T14:10:29.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ilo31zt_xoTY3XRzYNQg" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -593,47 +593,47 @@
         <mxCell id="YHo1rwwwruHPMsUzTiB2-153" value="&lt;span style=&quot;text-align: center;&quot;&gt;面向未来的因果推理工具&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="2100" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-1" target="ok2qa2rdygMP8ssIFKAk-10">
+        <mxCell id="YSbeaJh5YVR08KdDeruy-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-1" target="ok2qa2rdygMP8ssIFKAk-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-1" value="一般人的脑子始终不够用" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2380" y="180" width="160" height="40" as="geometry" />
+          <mxGeometry x="2320" y="180" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ok2qa2rdygMP8ssIFKAk-10">
+        <mxCell id="YSbeaJh5YVR08KdDeruy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-6" target="ok2qa2rdygMP8ssIFKAk-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2481" y="250" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-6" value="作者与读者、讲者与听者之间沟通的有效方式" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="230" width="160" height="40" as="geometry" />
+          <mxGeometry x="2480" y="200" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ok2qa2rdygMP8ssIFKAk-10">
+        <mxCell id="YSbeaJh5YVR08KdDeruy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-8" target="ok2qa2rdygMP8ssIFKAk-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2481" y="310" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-8" value="类比是约等于，并不是全部相等，不能混为一谈" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="290" width="160" height="40" as="geometry" />
+          <mxGeometry x="2480" y="260" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ok2qa2rdygMP8ssIFKAk-10">
+        <mxCell id="YSbeaJh5YVR08KdDeruy-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-10" target="ok2qa2rdygMP8ssIFKAk-10">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2481" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-10" value="举一反三的工具：&lt;div&gt;这个道理还能用在什么地方呢？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2481" y="360" width="179" height="40" as="geometry" />
+          <mxGeometry x="2480" y="320" width="179" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-12" target="YSbeaJh5YVR08KdDeruy-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-12" value="教育与眼镜，组成科学的事实与建造房屋的砖头" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2680" y="230" width="140" height="40" as="geometry" />
+        <mxCell id="YSbeaJh5YVR08KdDeruy-12" value="教育与眼镜&lt;div&gt;组成科学的事实与建造房屋的砖头&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2679" y="200" width="201" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-14" target="YSbeaJh5YVR08KdDeruy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-14" value="从平行线联想到朋友关系&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从地球逃逸速度联想到赚钱速度&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从质量越大引力越大联想到知识越多的人吸引力越大&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;从组成物质需要不同的元素和比例联想到形成公司需要不同的特点和数量的人&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2700" y="320" width="300" height="120" as="geometry" />
+          <mxGeometry x="2700" y="280" width="300" height="120" as="geometry" />
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-17" target="YSbeaJh5YVR08KdDeruy-25">
           <mxGeometry relative="1" as="geometry" />
