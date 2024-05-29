@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T13:00:48.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="QBVMxIYSysJXKsTnirfZ" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T13:01:38.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="s8vPm8O-aq45_C1pWqCr" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -626,8 +626,8 @@
         <mxCell id="YSbeaJh5YVR08KdDeruy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-14" target="YSbeaJh5YVR08KdDeruy-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSbeaJh5YVR08KdDeruy-14" value="朋友与平行线，赚钱速度与逃逸地球速度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="2720" y="350" width="120" height="40" as="geometry" />
+        <mxCell id="YSbeaJh5YVR08KdDeruy-14" value="从平行线联想到朋友关系，从地球逃逸速度联想到赚钱速度" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="2720" y="350" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
