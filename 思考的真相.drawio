@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T16:13:47.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="I394qfzDIdw-JXpPP7SB" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T16:16:50.932Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NJVFZkUWE1C8E2FiNzvV" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1125" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,11 +62,21 @@
         <mxCell id="UPUVpUkwkENNJ1alas6Y-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ok2qa2rdygMP8ssIFKAk-1" target="h8L9wSWyl7yfmNhZgXrv-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-20" value="概念认知是&lt;div&gt;判断决策的前提&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;" vertex="1" connectable="0" parent="UPUVpUkwkENNJ1alas6Y-45">
+          <mxGeometry x="-0.3476" y="-2" relative="1" as="geometry">
+            <mxPoint y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ok2qa2rdygMP8ssIFKAk-1" value="定义" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="-160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ok2qa2rdygMP8ssIFKAk-4" target="ok2qa2rdygMP8ssIFKAk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-22" value="判断决策是&lt;div&gt;行动的前提&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;" vertex="1" connectable="0" parent="YHo1rwwwruHPMsUzTiB2-20">
+          <mxGeometry x="-0.4467" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="22" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ok2qa2rdygMP8ssIFKAk-4" value="决策" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="680" width="40" height="40" as="geometry" />
