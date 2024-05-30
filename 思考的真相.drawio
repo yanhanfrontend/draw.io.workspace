@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T15:58:14.533Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="76F6xYLDBGNpBkpy2MCL" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T15:58:59.803Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2x59Ms3s7SumXk0HfNBS" version="24.4.9" type="github">
   <diagram name="第 1 页" id="fYTfuGEXcqCv-YEt6GHv">
     <mxGraphModel dx="1221" dy="1894" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -804,6 +804,18 @@
         </mxCell>
         <mxCell id="YSbeaJh5YVR08KdDeruy-80" value="因果分析" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="160" y="620" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6i3gxZ2wisrIIjucDHZ-1" target="YHo1rwwwruHPMsUzTiB2-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-1" value="父子节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="-80" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="j6i3gxZ2wisrIIjucDHZ-3" target="YHo1rwwwruHPMsUzTiB2-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6i3gxZ2wisrIIjucDHZ-3" value="兄弟节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="480" y="110" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
