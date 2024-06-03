@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T13:54:29.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="kKeBCtenuJ-bZ90RVO4L" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T13:56:42.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="tFkVn586TYt03VZXuCvT" version="24.4.13" type="github">
   <diagram name="第 1 页" id="fa3JzIOEpzAEIbz7c-mS">
-    <mxGraphModel dx="1221" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,9 +8,6 @@
           <mxGeometry x="160" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NSkligS_rQyxowmOvO4k-2" target="NSkligS_rQyxowmOvO4k-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="NSkligS_rQyxowmOvO4k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NSkligS_rQyxowmOvO4k-2" target="NSkligS_rQyxowmOvO4k-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NSkligS_rQyxowmOvO4k-2" target="NSkligS_rQyxowmOvO4k-5" edge="1">
@@ -22,8 +19,11 @@
         <mxCell id="NSkligS_rQyxowmOvO4k-2" value="优化策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MznTz92uBUtgQGI_7qWU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NSkligS_rQyxowmOvO4k-3" target="NSkligS_rQyxowmOvO4k-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-3" value="网络优化策略" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="220" width="80" height="40" as="geometry" />
+          <mxGeometry x="-81" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="NSkligS_rQyxowmOvO4k-5" target="NSkligS_rQyxowmOvO4k-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,28 +68,28 @@
           <mxGeometry x="280" y="800" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-21" value="减少HTTP请求数，合并JS、CSS,合理内嵌CSS、JS" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="280" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1400" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-22" value="合理设置服务端缓存，提高服务器处理速度。 (强制缓存、对比缓存)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="170" width="280" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1450" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-23" value="避免重定向，重定向会降低响应速度 (301,302)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="220" width="280" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1500" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-24" value="使用dns-prefetch,进行DNS预解析" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="270" width="280" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1550" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-25" value="采用域名分片技术，将资源放到不同的域名下。接触同一个域名最多处理6个TCP链接问题。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="280" y="320" width="280" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1600" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-26" value="采用CDN加速加快访问速度。(指派最近、高度可用)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="600" y="120" width="290" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1650" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-27" value="gzip压缩优化 对传输资源进行体积压缩 (html,js,css)" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="600" y="170" width="290" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1700" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-28" value="加载数据优先级 : preload（预先请求当前页面需要的资源） prefetch（将来页面中使用的资源） 将数据缓存到HTTP缓存中" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="600" y="220" width="340" height="40" as="geometry" />
+          <mxGeometry x="-181" y="1750" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="NSkligS_rQyxowmOvO4k-29" value="重排（回流）Reflow" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="410" width="120" height="40" as="geometry" />
@@ -148,8 +148,11 @@
         <mxCell id="zD0Xw_IBZpKbBdzINucS-14" value="存储" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="1400" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="MznTz92uBUtgQGI_7qWU-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zD0Xw_IBZpKbBdzINucS-15" target="NSkligS_rQyxowmOvO4k-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-15" value="网络" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="1400" width="80" height="40" as="geometry" />
+          <mxGeometry x="-81" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-16" value="布局" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="1240" width="80" height="40" as="geometry" />
@@ -157,8 +160,11 @@
         <mxCell id="zD0Xw_IBZpKbBdzINucS-17" value="css 解释器" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zD0Xw_IBZpKbBdzINucS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zD0Xw_IBZpKbBdzINucS-22" target="zD0Xw_IBZpKbBdzINucS-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="zD0Xw_IBZpKbBdzINucS-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119" y="1300" as="sourcePoint" />
+            <mxPoint x="119" y="1280" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="zD0Xw_IBZpKbBdzINucS-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zD0Xw_IBZpKbBdzINucS-22" target="zD0Xw_IBZpKbBdzINucS-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
