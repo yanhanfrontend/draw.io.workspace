@@ -7,11 +7,11 @@
         <mxCell id="7c-vlIwbRYnSEmysqgc2-3" value="投资" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcc99;strokeColor=#36393d;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="300" y="180" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="7c-vlIwbRYnSEmysqgc2-2" value="销售&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="7c-vlIwbRYnSEmysqgc2-2" value="销售" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=default;verticalAlign=bottom;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="7c-vlIwbRYnSEmysqgc2-1" value="生产" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=none;gradientDirection=radial;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="220" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
