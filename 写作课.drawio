@@ -58,11 +58,11 @@
         <mxCell id="5bShoopTlFWPeDc6z4Nc-12" value="how" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="467" y="480" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5bShoopTlFWPeDc6z4Nc-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-13" target="5bShoopTlFWPeDc6z4Nc-1">
+        <mxCell id="5bShoopTlFWPeDc6z4Nc-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-13" target="5bShoopTlFWPeDc6z4Nc-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-13" value="逻辑模板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="187" y="600" width="80" height="40" as="geometry" />
+          <mxGeometry x="50" y="600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-21" target="5bShoopTlFWPeDc6z4Nc-10">
           <mxGeometry relative="1" as="geometry" />
@@ -186,6 +186,12 @@
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-58" value="对事物的感知的感知的感知的感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="517" y="120" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5bShoopTlFWPeDc6z4Nc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-60" target="5bShoopTlFWPeDc6z4Nc-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5bShoopTlFWPeDc6z4Nc-60" value="2个元素间的关系" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="167" y="600" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
