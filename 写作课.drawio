@@ -139,13 +139,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-42" value="对事物的感知的感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="300" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-44" target="5bShoopTlFWPeDc6z4Nc-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-44" value="对动作的感知的感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="460" y="160" width="80" height="40" as="geometry" />
+          <mxGeometry x="460" y="140" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-46" target="5bShoopTlFWPeDc6z4Nc-47">
           <mxGeometry relative="1" as="geometry" />
