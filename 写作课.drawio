@@ -160,16 +160,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-49" value="形式逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="560" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5bShoopTlFWPeDc6z4Nc-50" target="5bShoopTlFWPeDc6z4Nc-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-50" value="非形式逻辑" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="680" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-52" value="现代科学" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="800" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
