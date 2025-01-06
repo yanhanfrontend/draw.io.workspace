@@ -147,6 +147,12 @@
         <mxCell id="5bShoopTlFWPeDc6z4Nc-44" value="对动作的感知的感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="520" y="40" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="5bShoopTlFWPeDc6z4Nc-46" value="记录感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="5bShoopTlFWPeDc6z4Nc-47" value="传递感知" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
