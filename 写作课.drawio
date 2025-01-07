@@ -244,6 +244,21 @@
         <mxCell id="dy8uUhy22T9sQn6Ebb2S-17" value="干得狠" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="920" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dy8uUhy22T9sQn6Ebb2S-22" target="dy8uUhy22T9sQn6Ebb2S-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-22" value="价值观" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1000" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dy8uUhy22T9sQn6Ebb2S-23" target="dy8uUhy22T9sQn6Ebb2S-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-23" value="什么最重要？" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-24" value="不再为生活必需品出售自己的时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
