@@ -268,6 +268,24 @@
         <mxCell id="dy8uUhy22T9sQn6Ebb2S-28" value="一切天生的优势都自带副作用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="1080" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dy8uUhy22T9sQn6Ebb2S-30" target="dy8uUhy22T9sQn6Ebb2S-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-30" value="靠耐心" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dy8uUhy22T9sQn6Ebb2S-31" target="dy8uUhy22T9sQn6Ebb2S-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-31" value="靠聪明" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dy8uUhy22T9sQn6Ebb2S-32" target="dy8uUhy22T9sQn6Ebb2S-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-32" value="靠勇气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
