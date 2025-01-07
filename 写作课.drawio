@@ -220,6 +220,9 @@
         <mxCell id="dy8uUhy22T9sQn6Ebb2S-10" value="具象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="960" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dy8uUhy22T9sQn6Ebb2S-14" value="做个专业的猛人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1080" width="100" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
