@@ -94,7 +94,7 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-28" value="沟通（微信，QQ）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="giEs7h58x9QLjQZyeRm1-29" value="互联网获取信息（浏览器）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="giEs7h58x9QLjQZyeRm1-29" value="获取信息（浏览器，搜索引擎，AI搜索）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-80" y="320" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-30" value="娱乐（游戏，音乐，视频）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
