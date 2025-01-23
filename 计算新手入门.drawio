@@ -118,6 +118,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-29" value="获取信息（浏览器，搜索引擎，AI搜索）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-30" target="giEs7h58x9QLjQZyeRm1-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-30" value="娱乐（游戏，音乐，视频）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-31" value="办公（微软Office,WPS,AutoCAD）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-240" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-36" target="giEs7h58x9QLjQZyeRm1-59">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-36" value="输入法（微信输入法，搜狗输入法）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="40" as="geometry" />
@@ -162,6 +168,12 @@
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-55" value="效率神器：微信收藏可以跨设备收藏一些重要信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-560" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-57" value="效率神器：B站上包罗万象，既能用来娱乐，也能用来学习，堪称一所互联网大学" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-60" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-59" value="效率神器：微信一个输入法就能支持拼音、五笔和双拼多种输入模式，界面简洁美观，还可以跨设备复制粘贴" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
