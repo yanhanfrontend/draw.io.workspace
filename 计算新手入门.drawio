@@ -22,6 +22,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-2" target="giEs7h58x9QLjQZyeRm1-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-2" target="giEs7h58x9QLjQZyeRm1-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-2" value="操作系统&lt;div&gt;What&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
         </mxCell>
@@ -92,16 +95,19 @@
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-28" value="沟通（微信，QQ）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="310" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="giEs7h58x9QLjQZyeRm1-29" value="获取信息（浏览器，搜索引擎，AI搜索）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="320" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-29" value="获取信息（浏览器，搜索引擎，AI搜索）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-30" value="娱乐（游戏，音乐，视频）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="320" width="80" height="40" as="geometry" />
+          <mxGeometry x="-40" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-31" value="办公（微软Office,WPS,AutoCAD）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="320" width="160" height="40" as="geometry" />
+          <mxGeometry x="-240" y="320" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-36" value="输入法（微信输入法，搜狗输入法）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
