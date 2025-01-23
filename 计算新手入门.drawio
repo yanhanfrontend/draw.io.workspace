@@ -106,6 +106,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-24" value="流程表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-28" target="giEs7h58x9QLjQZyeRm1-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-28" value="沟通（微信，QQ）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-560" y="320" width="120" height="40" as="geometry" />
         </mxCell>
@@ -156,6 +159,9 @@
         </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-53" value="效率神器：浏览器收藏夹可以把常用的网站收藏起来，方便下次使用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-400" y="200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-55" value="效率神器：微信收藏可以跨设备收藏一些重要信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="200" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
