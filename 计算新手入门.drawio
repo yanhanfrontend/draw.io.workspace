@@ -79,6 +79,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-24" value="流程表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-28" value="沟通（微信，QQ）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="320" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
