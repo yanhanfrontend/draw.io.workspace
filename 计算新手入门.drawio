@@ -100,6 +100,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-23" value="关系表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-24" target="giEs7h58x9QLjQZyeRm1-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-24" value="流程表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" y="80" width="80" height="40" as="geometry" />
         </mxCell>
@@ -133,11 +136,14 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-43" value="效率为本，提高效率是最值得沉迷的事情" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="640" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="giEs7h58x9QLjQZyeRm1-45" value="定义" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="giEs7h58x9QLjQZyeRm1-45" value="定义（认知）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="giEs7h58x9QLjQZyeRm1-47" value="分类、比较、因果" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="giEs7h58x9QLjQZyeRm1-47" value="分类、比较、因果（判断）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="760" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giEs7h58x9QLjQZyeRm1-49" value="行动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
