@@ -145,6 +145,9 @@
         <mxCell id="giEs7h58x9QLjQZyeRm1-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="giEs7h58x9QLjQZyeRm1-40" target="giEs7h58x9QLjQZyeRm1-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="NMp-iHY1C0GQt5-50yLt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="giEs7h58x9QLjQZyeRm1-40" target="NMp-iHY1C0GQt5-50yLt-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="giEs7h58x9QLjQZyeRm1-40" value="重要的习惯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" width="120" height="40" as="geometry" />
         </mxCell>
@@ -189,6 +192,9 @@
         </mxCell>
         <mxCell id="NMp-iHY1C0GQt5-50yLt-5" value="当需求容量超过已存在的容量时，稀缺便会产生。其副作用是会让人状态变差，变得短视，被困在永恒的当下。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="500" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NMp-iHY1C0GQt5-50yLt-6" value="自学能力，自学能学会任何东西，前提是能找到好的资料。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
