@@ -202,6 +202,9 @@
         <mxCell id="NMp-iHY1C0GQt5-50yLt-8" value="阅读习惯，不仅仅是书本，还有视频，文章等其它任何值得学习的地方。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="-220" width="220" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NMp-iHY1C0GQt5-50yLt-12" value="&lt;div&gt;英语：（名）主，状（副词修饰动词），谓（动词），定（形容词修饰名词），宾（名词），（谓、动）补，（名）同位语，非谓语（除动词外），系（动词），表（名词或形容词）&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主状谓定宾补表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry y="840" width="440" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
