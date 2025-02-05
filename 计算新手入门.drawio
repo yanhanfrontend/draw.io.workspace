@@ -179,10 +179,16 @@
           <mxGeometry x="440" y="640" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="NMp-iHY1C0GQt5-50yLt-2" value="需要的心智带宽、金钱、时间等" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="280" as="geometry" />
+          <mxGeometry x="600" y="520" width="120" height="280" as="geometry" />
         </mxCell>
         <mxCell id="NMp-iHY1C0GQt5-50yLt-3" value="富余" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="440" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NMp-iHY1C0GQt5-50yLt-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="520" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NMp-iHY1C0GQt5-50yLt-5" value="当需求容量超过已存在的容量时，稀缺便会产生。其副作用是会让人状态变差，变得短视，被困在永恒的当下。" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="500" width="220" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
