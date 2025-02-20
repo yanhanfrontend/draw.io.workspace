@@ -45,16 +45,11 @@
             <mxPoint x="17" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-1" value="基础模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-4" target="u4UBgWqbXqTNb08_oveg-16">
+        <mxCell id="u4UBgWqbXqTNb08_oveg-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-1" target="u4UBgWqbXqTNb08_oveg-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-24" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;自回归预测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-20">
-          <mxGeometry x="-0.005" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-1" value="基础模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-4" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="480" width="80" height="40" as="geometry" />
@@ -96,7 +91,7 @@
           <mxGeometry x="640" y="420" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-16" value="文档序列中的下一个 Token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="680" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-25">
           <mxGeometry relative="1" as="geometry">
@@ -105,6 +100,17 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-25" value="指令调优和基于人类反馈的强化学习" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="480" y="560" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-28" target="u4UBgWqbXqTNb08_oveg-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-33" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;自回归预测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];horizontal=1;" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-32">
+          <mxGeometry x="-0.05" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-28" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
