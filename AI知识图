@@ -51,6 +51,9 @@
         <mxCell id="u4UBgWqbXqTNb08_oveg-1" value="基础模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-4" target="u4UBgWqbXqTNb08_oveg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-4" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="480" width="80" height="40" as="geometry" />
         </mxCell>
@@ -111,6 +114,15 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-28" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-34" value="目标" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-36" target="u4UBgWqbXqTNb08_oveg-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-36" value="使模型具备更符合人类期望的行为" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
