@@ -320,13 +320,16 @@
           <mxGeometry x="160" y="840" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-103" value="可解释性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="840" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-104" value="可扩展性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="840" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-105" value="自适应能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="u4UBgWqbXqTNb08_oveg-104" value="可扩展性" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-105" value="自适应能力" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="640" y="840" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-106" value="性能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="840" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
