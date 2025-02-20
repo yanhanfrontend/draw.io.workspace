@@ -285,6 +285,19 @@
         <mxCell id="u4UBgWqbXqTNb08_oveg-81" value="……" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="560" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1120" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-88">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1260" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-88" value="思维链过程" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1150" y="520" width="80" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
