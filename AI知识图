@@ -131,6 +131,15 @@
             <mxPoint x="480" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-38">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="880" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="605" y="640" />
+              <mxPoint x="881" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-38" value="基于人类反馈的强化学习" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="600" width="140" height="20" as="geometry" />
         </mxCell>
@@ -154,15 +163,15 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-46" target="u4UBgWqbXqTNb08_oveg-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="740" as="targetPoint" />
+            <mxPoint x="600" y="760" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-46" value="人" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-47" target="u4UBgWqbXqTNb08_oveg-54">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="720" as="targetPoint" />
+            <mxPoint x="600" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-56" value="数据标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-49">
@@ -171,13 +180,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-47" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="480" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-52" target="u4UBgWqbXqTNb08_oveg-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-52" value="AI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="640" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="660" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-54" target="u4UBgWqbXqTNb08_oveg-55">
           <mxGeometry relative="1" as="geometry" />
@@ -188,7 +197,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-54" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="640" y="720" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-55" target="u4UBgWqbXqTNb08_oveg-60">
           <mxGeometry relative="1" as="geometry" />
@@ -199,16 +208,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-55" value="标注好的数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="720" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-59" target="u4UBgWqbXqTNb08_oveg-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-59" value="对比损失函数" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="800" y="760" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="780" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-60" value="人类偏好的模式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="960" y="700" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="720" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
