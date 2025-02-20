@@ -51,8 +51,8 @@
         <mxCell id="u4UBgWqbXqTNb08_oveg-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-4" target="u4UBgWqbXqTNb08_oveg-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-21" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;自回归预测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-20">
-          <mxGeometry x="-0.035" y="1" relative="1" as="geometry">
+        <mxCell id="u4UBgWqbXqTNb08_oveg-24" value="&lt;span style=&quot;font-size: 12px; text-wrap-mode: wrap;&quot;&gt;自回归预测&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-20">
+          <mxGeometry x="-0.005" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
