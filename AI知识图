@@ -167,7 +167,7 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-56" value="数据标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-49">
           <mxGeometry x="-0.185" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="7" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-47" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -184,7 +184,7 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-57" value="数据标注" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-53">
           <mxGeometry x="-0.11" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="4" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-54" value="数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
