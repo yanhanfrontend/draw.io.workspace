@@ -36,11 +36,11 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-3" value="预训练" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u4UBgWqbXqTNb08_oveg-2">
           <mxGeometry x="-0.06" y="-2" relative="1" as="geometry">
-            <mxPoint y="-12" as="offset" />
+            <mxPoint x="20" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="u4UBgWqbXqTNb08_oveg-0" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="360" width="80" height="40" as="geometry" />
+        <mxCell id="u4UBgWqbXqTNb08_oveg-0" value="LLM" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="200" y="440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-1" target="u4UBgWqbXqTNb08_oveg-4">
           <mxGeometry relative="1" as="geometry" />
@@ -51,13 +51,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="360" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="360" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u4UBgWqbXqTNb08_oveg-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-8" target="u4UBgWqbXqTNb08_oveg-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-8" value="Common Crawl 等公开数据集" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="160" y="520" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
