@@ -445,13 +445,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-128" value="批判性思维&lt;div&gt;局限性：不能数学化，无法批量、大规模、自动计算。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1910" y="-60" width="100" height="60" as="geometry" />
+          <mxGeometry x="1910" y="-60" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="YHo1rwwwruHPMsUzTiB2-133" target="YHo1rwwwruHPMsUzTiB2-118" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-133" value="正常思考的基础&lt;span style=&quot;background-color: initial;&quot;&gt;之一&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="2030" y="-60" width="120" height="40" as="geometry" />
+          <mxGeometry x="2030" y="-60" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-138" value="贝叶斯定理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1670" y="210" width="80" height="40" as="geometry" />
