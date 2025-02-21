@@ -636,7 +636,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j6i3gxZ2wisrIIjucDHZ-1" value="父子节点" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="620" y="-60" width="80" height="40" as="geometry" />
+          <mxGeometry x="620" y="-60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j6i3gxZ2wisrIIjucDHZ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" target="YHo1rwwwruHPMsUzTiB2-62" edge="1">
           <mxGeometry relative="1" as="geometry">
