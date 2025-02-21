@@ -495,6 +495,21 @@
         <mxCell id="39l9zTleFLtUQJY5lR-o-95" value="陈述句" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="879.5" y="1000" width="40.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-101" target="39l9zTleFLtUQJY5lR-o-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-101" value="主语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="959" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-102" target="39l9zTleFLtUQJY5lR-o-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-102" value="系动词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1039.5" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-103" value="表语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1119" y="1040" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
