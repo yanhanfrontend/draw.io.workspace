@@ -153,7 +153,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-58" value="对事物的感知的感知的感知的感知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1159" y="480" width="109" height="40" as="geometry" />
+          <mxGeometry x="1150" y="480" width="109" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5bShoopTlFWPeDc6z4Nc-60" target="5bShoopTlFWPeDc6z4Nc-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
