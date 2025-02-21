@@ -108,17 +108,16 @@
         <mxCell id="ok2qa2rdygMP8ssIFKAk-9" value="曙光" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mt04dN06qXn2dZv_alAu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ok2qa2rdygMP8ssIFKAk-10" target="YHo1rwwwruHPMsUzTiB2-71">
+        <mxCell id="Mt04dN06qXn2dZv_alAu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ok2qa2rdygMP8ssIFKAk-10" target="YHo1rwwwruHPMsUzTiB2-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1560" y="740" />
-              <mxPoint x="1560" y="280" />
+              <mxPoint x="1630" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Mt04dN06qXn2dZv_alAu-55" value="类比是基于约等于的神奇的思考工具，跨越已知和未知之间的桥梁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt04dN06qXn2dZv_alAu-54">
           <mxGeometry x="0.3197" y="2" relative="1" as="geometry">
-            <mxPoint y="-2" as="offset" />
+            <mxPoint x="123" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ok2qa2rdygMP8ssIFKAk-10" value="类比" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
