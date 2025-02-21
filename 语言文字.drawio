@@ -91,7 +91,7 @@
         <mxCell id="5bShoopTlFWPeDc6z4Nc-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5bShoopTlFWPeDc6z4Nc-28" target="5bShoopTlFWPeDc6z4Nc-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xQsgJ6E7bOyW10JDx-UL-1" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5bShoopTlFWPeDc6z4Nc-31">
+        <mxCell id="xQsgJ6E7bOyW10JDx-UL-1" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5bShoopTlFWPeDc6z4Nc-31" vertex="1" connectable="0">
           <mxGeometry x="-0.04" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -120,12 +120,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQsgJ6E7bOyW10JDx-UL-2" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5bShoopTlFWPeDc6z4Nc-34">
+        <mxCell id="xQsgJ6E7bOyW10JDx-UL-2" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5bShoopTlFWPeDc6z4Nc-34" vertex="1" connectable="0">
           <mxGeometry x="-0.7633" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xQsgJ6E7bOyW10JDx-UL-3" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5bShoopTlFWPeDc6z4Nc-34">
+        <mxCell id="xQsgJ6E7bOyW10JDx-UL-3" value="修饰" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="5bShoopTlFWPeDc6z4Nc-34" vertex="1" connectable="0">
           <mxGeometry x="0.08" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -300,6 +300,72 @@
         </mxCell>
         <mxCell id="dy8uUhy22T9sQn6Ebb2S-32" value="靠勇气" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="360" y="860" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-1" target="39l9zTleFLtUQJY5lR-o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-1" value="主语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-2" target="39l9zTleFLtUQJY5lR-o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-2" value="谓语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-3" target="39l9zTleFLtUQJY5lR-o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-3" value="宾语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-4" target="39l9zTleFLtUQJY5lR-o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-4" value="宾语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-8" value="补语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-10" target="39l9zTleFLtUQJY5lR-o-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-10" target="39l9zTleFLtUQJY5lR-o-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-10" value="补语其实是对谓语的补充" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="800" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-13" target="39l9zTleFLtUQJY5lR-o-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-13" value="可省略" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="680" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-14" target="39l9zTleFLtUQJY5lR-o-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-14" value="可省略" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="760" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-17" value="定语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-18" value="状语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-19" value="同谓语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-20" value="非谓语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-21" value="不定式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-22" value="动名词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="400" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
