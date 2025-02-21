@@ -115,12 +115,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-46" value="记录感知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="1100" width="60" height="40" as="geometry" />
+          <mxGeometry x="699.5" y="1120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="5bShoopTlFWPeDc6z4Nc-47" target="39l9zTleFLtUQJY5lR-o-95" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="860" y="1120" />
+              <mxPoint x="860" y="1140" />
               <mxPoint x="860" y="1040" />
             </Array>
           </mxGeometry>
@@ -129,7 +129,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-47" value="传递感知" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="1100" width="60" height="40" as="geometry" />
+          <mxGeometry x="779.5" y="1120" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="5bShoopTlFWPeDc6z4Nc-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5bShoopTlFWPeDc6z4Nc-49" target="5bShoopTlFWPeDc6z4Nc-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -410,6 +410,9 @@
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="Y8fGM5Zg13OZfp4qEVeO-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Y8fGM5Zg13OZfp4qEVeO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="Y8fGM5Zg13OZfp4qEVeO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-48" value="名词性成分" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="760" y="760" width="80" height="40" as="geometry" />
         </mxCell>
@@ -453,10 +456,10 @@
           <mxGeometry x="1019.5" y="480" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-51" value="一般疑问句" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="918.5" y="1220" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="1260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-52" value="特殊疑问句" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="918.5" y="1280" width="80" height="40" as="geometry" />
+          <mxGeometry x="920" y="1320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-53" target="39l9zTleFLtUQJY5lR-o-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -465,7 +468,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-53" value="疑问句" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="879.5" y="1160" width="39" height="40" as="geometry" />
+          <mxGeometry x="881" y="1200" width="39" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-62" target="39l9zTleFLtUQJY5lR-o-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -522,7 +525,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="939" y="1040" />
-              <mxPoint x="939" y="1140" />
+              <mxPoint x="939" y="1160" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -533,19 +536,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-101" value="主语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="959.5" y="1120" width="40" height="40" as="geometry" />
+          <mxGeometry x="959" y="1140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="39l9zTleFLtUQJY5lR-o-102" target="39l9zTleFLtUQJY5lR-o-103" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-102" value="系动词" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="1120" width="40" height="40" as="geometry" />
+          <mxGeometry x="1039.5" y="1140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-103" value="表语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1119.5" y="1120" width="40" height="40" as="geometry" />
+          <mxGeometry x="1119" y="1140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-1" value="虚拟语气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1039.5" y="1220" width="60.5" height="40" as="geometry" />
+          <mxGeometry x="1039" y="1260" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-3" value="介词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1099.5" y="720" width="40" height="40" as="geometry" />
@@ -561,6 +564,9 @@
         </mxCell>
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-16" value="表语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="1000" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Y8fGM5Zg13OZfp4qEVeO-18" value="同位语" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1060" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
