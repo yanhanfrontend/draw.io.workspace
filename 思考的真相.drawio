@@ -196,26 +196,8 @@
         <mxCell id="UPUVpUkwkENNJ1alas6Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-37" target="h8L9wSWyl7yfmNhZgXrv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-37" value="同一个种类的不同事物之间的相同属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="160" y="380" width="220" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-39" target="UPUVpUkwkENNJ1alas6Y-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-39" value="主观的判断依据不可争辩" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="420" y="360" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-41" target="UPUVpUkwkENNJ1alas6Y-37" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-41" value="客观的判断依据才可以量化，才能精确比较" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="420" y="400" width="240" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-43" target="UPUVpUkwkENNJ1alas6Y-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="UPUVpUkwkENNJ1alas6Y-43" value="当多个客观的判断依据同时存在时，可以对判断依据按照重要性进行排列，分别给予不同的打分和权重，在加权求和后就可以很方便的进行比较" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="700" y="400" width="400" height="40" as="geometry" />
+        <mxCell id="UPUVpUkwkENNJ1alas6Y-37" value="同一个种类的不同事物之间的相同属性。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主观的判断依据不可争辩。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;客观的判断依据才可以量化，才能精确比较。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;当多个客观的判断依据同时存在时，可以对判断依据按照重要性进行排列，分别给予不同的打分和权重，在加权求和后就可以很方便的进行比较。&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="160" y="380" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-54" target="h8L9wSWyl7yfmNhZgXrv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
