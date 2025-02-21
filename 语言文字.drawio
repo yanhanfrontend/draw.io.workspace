@@ -427,6 +427,9 @@
         <mxCell id="39l9zTleFLtUQJY5lR-o-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="39l9zTleFLtUQJY5lR-o-33">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="39l9zTleFLtUQJY5lR-o-69" value="发起或接受动作" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="39l9zTleFLtUQJY5lR-o-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-48" value="名词性成分" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="760" width="80" height="40" as="geometry" />
         </mxCell>
