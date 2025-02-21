@@ -135,14 +135,15 @@
         <mxCell id="ok2qa2rdygMP8ssIFKAk-9" value="曙光" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1610" y="210" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Mt04dN06qXn2dZv_alAu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ok2qa2rdygMP8ssIFKAk-10" target="YHo1rwwwruHPMsUzTiB2-71">
+        <mxCell id="Mt04dN06qXn2dZv_alAu-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="ok2qa2rdygMP8ssIFKAk-10" target="YHo1rwwwruHPMsUzTiB2-71">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1630" y="280" />
+              <mxPoint x="1550" y="400" />
+              <mxPoint x="1550" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mt04dN06qXn2dZv_alAu-55" value="类比是基于约等于的神奇的思考工具，跨越已知和未知之间的桥梁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt04dN06qXn2dZv_alAu-54">
+        <mxCell id="Mt04dN06qXn2dZv_alAu-55" value="“类比”是基于”约等于”的神奇的思考工具，跨越已知和未知之间的桥梁" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mt04dN06qXn2dZv_alAu-54">
           <mxGeometry x="0.3197" y="2" relative="1" as="geometry">
             <mxPoint x="123" y="-2" as="offset" />
           </mxGeometry>
@@ -212,23 +213,23 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-33" value="同一范畴，相同属性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="200" width="120" height="40" as="geometry" />
+          <mxGeometry x="560" y="140" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-33" target="YHo1rwwwruHPMsUzTiB2-71" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="300" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-33" target="YHo1rwwwruHPMsUzTiB2-72" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="300" as="sourcePoint" />
+            <mxPoint x="580" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-37" target="h8L9wSWyl7yfmNhZgXrv-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-37" value="同一个种类的不同事物之间的相同属性。&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;主观的判断依据不可争辩。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;客观的判断依据才可以量化，才能精确比较。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;当多个客观的判断依据同时存在时，可以对判断依据按照重要性进行排列，分别给予不同的打分和权重，在加权求和后就可以很方便的进行比较。&lt;span style=&quot;text-align: center;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="380" width="280" height="120" as="geometry" />
+          <mxGeometry x="560" y="320" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UPUVpUkwkENNJ1alas6Y-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UPUVpUkwkENNJ1alas6Y-54" target="h8L9wSWyl7yfmNhZgXrv-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -401,10 +402,10 @@
           <mxGeometry x="540" y="40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-71" value="约等于" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="260" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-72" value="大于" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="640" y="320" width="40" height="40" as="geometry" />
+          <mxGeometry x="640" y="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YHo1rwwwruHPMsUzTiB2-78" value="相关关系" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="680" width="60" height="40" as="geometry" />
@@ -650,12 +651,6 @@
         </mxCell>
         <mxCell id="j6i3gxZ2wisrIIjucDHZ-5" value="&lt;span style=&quot;text-align: center;&quot;&gt;集合概念&lt;/span&gt;。&lt;span style=&quot;text-align: center;&quot;&gt;由一个或多个概念构成的整体。&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;合理，&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;分类间互不重合。&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: center;&quot;&gt;完整，&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;所有分类加起来应该等于全部。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="540" y="-160" width="240" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Mt04dN06qXn2dZv_alAu-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j6i3gxZ2wisrIIjucDHZ-7" target="h8L9wSWyl7yfmNhZgXrv-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="j6i3gxZ2wisrIIjucDHZ-7" value="可量化的大小关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="140" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mt04dN06qXn2dZv_alAu-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSbeaJh5YVR08KdDeruy-44" target="YSbeaJh5YVR08KdDeruy-45">
           <mxGeometry relative="1" as="geometry">
