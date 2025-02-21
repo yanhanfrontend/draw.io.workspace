@@ -20,7 +20,7 @@
         </mxCell>
         <mxCell id="j6i3gxZ2wisrIIjucDHZ-19" value="不是同类，也无法比较，加入时间因素" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];textDirection=vertical-lr;" parent="UPUVpUkwkENNJ1alas6Y-53" vertex="1" connectable="0">
           <mxGeometry x="-0.1011" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="h8L9wSWyl7yfmNhZgXrv-2" value="比较" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
