@@ -345,7 +345,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-99" value="（8）非生产者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-50" y="479" width="90" height="40" as="geometry" />
+          <mxGeometry x="-100" y="480" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-100" value="人群" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="561" width="80" height="40" as="geometry" />
@@ -362,7 +362,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-101" value="生产者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="479" width="80" height="40" as="geometry" />
+          <mxGeometry x="-160" y="480" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-114" target="H-W_XZ9JoSp4LIZaos0a-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
