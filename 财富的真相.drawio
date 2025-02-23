@@ -267,11 +267,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-92" value="直接参与者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-210" y="321" width="80" height="40" as="geometry" />
+          <mxGeometry x="-210" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PpHxgLbTUv7OijSuqruk-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-93">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-170" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="35" y="300" />
+              <mxPoint x="-169" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-93" value="（5）被组织者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -283,7 +287,7 @@
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-94" value="（1）所有者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-413" y="240" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="PpHxgLbTUv7OijSuqruk-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-95" target="H-W_XZ9JoSp4LIZaos0a-92">
+        <mxCell id="PpHxgLbTUv7OijSuqruk-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=default;startSize=8;endArrow=classic;endSize=8;" edge="1" parent="1" source="H-W_XZ9JoSp4LIZaos0a-95" target="H-W_XZ9JoSp4LIZaos0a-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-95" value="（4）销售者" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
