@@ -99,7 +99,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-23" value="商品" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="770" width="40" height="40" as="geometry" />
+          <mxGeometry x="180" y="770" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-24" target="H-W_XZ9JoSp4LIZaos0a-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -110,7 +110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-24" value="服务" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="210" y="850" width="40" height="40" as="geometry" />
+          <mxGeometry x="180" y="850" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-47" target="H-W_XZ9JoSp4LIZaos0a-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -155,7 +155,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-27" value="钱" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="330" y="810" width="40" height="40" as="geometry" />
+          <mxGeometry x="260" y="810" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-32" target="H-W_XZ9JoSp4LIZaos0a-161" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -415,34 +415,13 @@
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-119" value="贸易" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-128" target="H-W_XZ9JoSp4LIZaos0a-130" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;dashPattern=1 4;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-128" target="H-W_XZ9JoSp4LIZaos0a-118" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-128" value="做销售的好处" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="560" y="560" width="80" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-130" value="距离制作足够近" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="361" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-131" value="理解真正的需求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="401" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-132" value="理解真正的竞争" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="441" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-133" value="收入可以无上限" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="481" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-134" value="学历专业无要求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="521" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="H-W_XZ9JoSp4LIZaos0a-135" value="没有破产的压力" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="680" y="559" width="100" height="40" as="geometry" />
+        <mxCell id="H-W_XZ9JoSp4LIZaos0a-128" value="做销售的好处：距离制作足够近，理解真正的需求，理解真正的竞争，收入可以无上限，学历专业无要求，没有破产的压力" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="560" y="500" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="H-W_XZ9JoSp4LIZaos0a-145" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="H-W_XZ9JoSp4LIZaos0a-142" target="H-W_XZ9JoSp4LIZaos0a-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
