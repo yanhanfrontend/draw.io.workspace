@@ -480,7 +480,7 @@
           <mxGeometry x="1400" y="1240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-39" value="Transformer模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="1240" width="100" height="40" as="geometry" />
+          <mxGeometry x="1500" y="1240" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
