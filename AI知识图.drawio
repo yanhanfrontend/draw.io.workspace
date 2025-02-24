@@ -412,15 +412,15 @@
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-8" value="语义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="1640" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3Ow6gu8wzPXKj3C6qqLN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-10" target="3Ow6gu8wzPXKj3C6qqLN-0">
+        <mxCell id="3Ow6gu8wzPXKj3C6qqLN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-10" target="3Ow6gu8wzPXKj3C6qqLN-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1100" y="1700" />
-              <mxPoint x="1055" y="1700" />
+              <mxPoint x="1070" y="1700" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3Ow6gu8wzPXKj3C6qqLN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-10" target="3Ow6gu8wzPXKj3C6qqLN-8">
+        <mxCell id="3Ow6gu8wzPXKj3C6qqLN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-10" target="3Ow6gu8wzPXKj3C6qqLN-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-10" value="多对多关系：不同的语言符号可能对应同一个语义，一套语言符号在不同场景下可能对应多个语义。&lt;div&gt;语言是概率的。&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
