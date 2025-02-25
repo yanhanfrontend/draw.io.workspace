@@ -597,10 +597,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AbXjkJ7tqVWqf835GHby-27" value="判别式任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-280" y="1220" width="80" height="40" as="geometry" />
+          <mxGeometry x="-280" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AbXjkJ7tqVWqf835GHby-28" target="AbXjkJ7tqVWqf835GHby-31">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AbXjkJ7tqVWqf835GHby-28" value="生成式任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-180" y="1220" width="80" height="40" as="geometry" />
+          <mxGeometry x="-180" y="1040" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-31" value="序列到序列任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-190" y="1100" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
