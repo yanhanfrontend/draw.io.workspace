@@ -435,6 +435,9 @@
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-14" target="3Ow6gu8wzPXKj3C6qqLN-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-14" target="AbXjkJ7tqVWqf835GHby-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-14" value="语言模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-360" y="950" width="60" height="40" as="geometry" />
         </mxCell>
@@ -589,6 +592,15 @@
         </mxCell>
         <mxCell id="AbXjkJ7tqVWqf835GHby-25" value="隐藏层" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="1100" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AbXjkJ7tqVWqf835GHby-27" target="AbXjkJ7tqVWqf835GHby-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-27" value="判别式任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-280" y="1220" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AbXjkJ7tqVWqf835GHby-28" value="生成式任务" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-180" y="1220" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
