@@ -776,6 +776,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7TCqFSmfFTohuNanS_Mf-39" target="qOGj67IQLbe6z2EaK0av-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1330" y="630" />
+              <mxPoint x="1610" y="630" />
+              <mxPoint x="1610" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7TCqFSmfFTohuNanS_Mf-39" value="思维链" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1300" y="580" width="40" height="40" as="geometry" />
         </mxCell>
