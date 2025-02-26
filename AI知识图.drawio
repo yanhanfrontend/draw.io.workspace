@@ -777,7 +777,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7TCqFSmfFTohuNanS_Mf-39" value="思维链" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1300" y="580" width="60" height="40" as="geometry" />
+          <mxGeometry x="1300" y="580" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qOGj67IQLbe6z2EaK0av-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qOGj67IQLbe6z2EaK0av-0" target="7TCqFSmfFTohuNanS_Mf-38">
           <mxGeometry relative="1" as="geometry" />
@@ -815,7 +815,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qOGj67IQLbe6z2EaK0av-17" value="角色扮演" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1380" y="580" width="60" height="40" as="geometry" />
+          <mxGeometry x="1360" y="580" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
