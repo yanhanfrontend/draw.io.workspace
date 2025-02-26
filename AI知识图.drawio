@@ -124,7 +124,7 @@
         </mxCell>
         <mxCell id="u4UBgWqbXqTNb08_oveg-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="u4UBgWqbXqTNb08_oveg-8" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="840" as="targetPoint" />
+            <mxPoint x="1040" y="860" as="targetPoint" />
             <Array as="points">
               <mxPoint x="740" y="960" />
               <mxPoint x="1040" y="960" />
@@ -858,6 +858,9 @@
         <mxCell id="qOGj67IQLbe6z2EaK0av-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qOGj67IQLbe6z2EaK0av-30" target="qOGj67IQLbe6z2EaK0av-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qOGj67IQLbe6z2EaK0av-30" target="qOGj67IQLbe6z2EaK0av-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qOGj67IQLbe6z2EaK0av-30" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;检索增强生成（RAG）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="700" width="70" height="40" as="geometry" />
         </mxCell>
@@ -869,6 +872,9 @@
         </mxCell>
         <mxCell id="qOGj67IQLbe6z2EaK0av-37" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;生成器（即大模型）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1200" y="780" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-38" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;LangChain&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1110" y="760" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
