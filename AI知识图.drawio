@@ -701,6 +701,12 @@
         <mxCell id="7TCqFSmfFTohuNanS_Mf-18" value="GPT-4o" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="780" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7TCqFSmfFTohuNanS_Mf-21" target="7TCqFSmfFTohuNanS_Mf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-21" value="&lt;font face=&quot;FandolSong-Regular-Identity-H&quot;&gt;小模型+大数据&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="580" y="980" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
