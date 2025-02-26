@@ -644,7 +644,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7TCqFSmfFTohuNanS_Mf-4" value="&lt;div&gt;&lt;font&gt;&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H;&quot;&gt;确保了解码器在生成每个输出 &lt;/span&gt;&lt;span style=&quot;font-family: TeXGyreTermes-Regular-Identity-H;&quot;&gt;Token&lt;br/&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H;&quot;&gt;&lt;font&gt;时都能参考输入序列的全局上下文信息&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="670" y="1400" width="140" height="60" as="geometry" />
+          <mxGeometry x="620" y="1400" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
