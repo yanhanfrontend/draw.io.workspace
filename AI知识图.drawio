@@ -855,8 +855,20 @@
         <mxCell id="qOGj67IQLbe6z2EaK0av-29" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;模型编辑&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="640" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="qOGj67IQLbe6z2EaK0av-30" target="qOGj67IQLbe6z2EaK0av-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="qOGj67IQLbe6z2EaK0av-30" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;检索增强生成（RAG）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-34" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;外部知识库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="700" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-36" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font face=&quot;FandolSong-Regular-Identity-H&quot;&gt;信息检索器&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="740" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qOGj67IQLbe6z2EaK0av-37" value="&lt;span style=&quot;font-family: FandolSong-Regular-Identity-H; text-align: left;&quot;&gt;生成器（即大模型）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="780" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
