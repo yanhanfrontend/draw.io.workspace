@@ -498,6 +498,9 @@
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-35" value="n-grams模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="1780" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="3Ow6gu8wzPXKj3C6qqLN-37" target="7TCqFSmfFTohuNanS_Mf-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Ow6gu8wzPXKj3C6qqLN-37" value="循环神经网络（RNN）模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="420" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
@@ -704,6 +707,15 @@
         </mxCell>
         <mxCell id="7TCqFSmfFTohuNanS_Mf-21" value="&lt;font face=&quot;FandolSong-Regular-Identity-H&quot;&gt;小模型+大数据&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="580" y="980" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7TCqFSmfFTohuNanS_Mf-24" target="7TCqFSmfFTohuNanS_Mf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-24" value="状态空间（SSM）模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7TCqFSmfFTohuNanS_Mf-25" value="测试时训练（TTT）模型" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="1480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
