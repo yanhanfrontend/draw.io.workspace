@@ -248,13 +248,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-3" value="宾语1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="1330" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="1479" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="39l9zTleFLtUQJY5lR-o-4" target="39l9zTleFLtUQJY5lR-o-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-4" value="宾语2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1452" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="1600" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-13" target="39l9zTleFLtUQJY5lR-o-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -263,7 +263,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-13" value="可省略" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1452" y="610" width="40" height="40" as="geometry" />
+          <mxGeometry x="1600" y="610" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-17" value="定语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910.5" y="170" width="40" height="40" as="geometry" />
@@ -281,13 +281,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-20" value="非谓语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1531" y="490" width="40" height="40" as="geometry" />
+          <mxGeometry x="1680" y="490" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-21" value="不定式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1571" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="1720" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-22" value="动名词" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1571" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="1720" y="710" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="39l9zTleFLtUQJY5lR-o-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -353,16 +353,16 @@
         <mxCell id="39l9zTleFLtUQJY5lR-o-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="39l9zTleFLtUQJY5lR-o-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990.5" y="420" />
-              <mxPoint x="1350.5" y="420" />
+              <mxPoint x="991" y="420" />
+              <mxPoint x="1499" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-48" target="39l9zTleFLtUQJY5lR-o-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="990.5" y="450" />
-              <mxPoint x="1472.5" y="450" />
+              <mxPoint x="991" y="450" />
+              <mxPoint x="1620" y="450" />
             </Array>
             <mxPoint x="1472.5" y="490" as="targetPoint" />
           </mxGeometry>
@@ -451,8 +451,8 @@
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="39l9zTleFLtUQJY5lR-o-62" target="39l9zTleFLtUQJY5lR-o-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1250.5" y="390" />
-              <mxPoint x="1551.5" y="390" />
+              <mxPoint x="1250" y="390" />
+              <mxPoint x="1700" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -466,7 +466,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-79" value="英语要求只能有一个动词作谓语，如果有更多的动作就要用非谓语" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="1571" y="550" width="80" height="80" as="geometry" />
+          <mxGeometry x="1720" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="39l9zTleFLtUQJY5lR-o-83" value="补语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1290.5" y="290" width="40" height="40" as="geometry" />
@@ -533,7 +533,7 @@
           <mxGeometry x="1190.5" y="610" width="61" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-11" value="&lt;span style=&quot;text-align: left;&quot;&gt;虚指宾语&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1371" y="610" width="60.5" height="40" as="geometry" />
+          <mxGeometry x="1520" y="610" width="60.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Y8fGM5Zg13OZfp4qEVeO-16" value="表语" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910.75" y="510" width="40" height="40" as="geometry" />
@@ -551,19 +551,27 @@
           <mxGeometry x="1280" y="650" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O25HmTg-bWGDSsZXGC7P-5" target="39l9zTleFLtUQJY5lR-o-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1260" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-5" value="受主语限制" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1280" y="460" width="40" height="40" as="geometry" />
+          <mxGeometry x="1300" y="460" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="O25HmTg-bWGDSsZXGC7P-7" target="39l9zTleFLtUQJY5lR-o-20">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1710" y="480" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-7" value="不&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;受主语限制&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="460" width="40" height="40" as="geometry" />
+          <mxGeometry x="1760" y="460" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-9" value="分&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;词&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1571" y="770" width="40" height="40" as="geometry" />
+          <mxGeometry x="1720" y="770" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="O25HmTg-bWGDSsZXGC7P-11" target="O25HmTg-bWGDSsZXGC7P-12">
           <mxGeometry relative="1" as="geometry" />
@@ -615,6 +623,15 @@
         </mxCell>
         <mxCell id="O25HmTg-bWGDSsZXGC7P-25" value="现在分词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810.25" y="400" width="59.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O25HmTg-bWGDSsZXGC7P-33" value="过去时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="550" width="40.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O25HmTg-bWGDSsZXGC7P-34" value="现在时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1399.5" y="550" width="40.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="O25HmTg-bWGDSsZXGC7P-35" value="将来时" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="550" width="40.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
