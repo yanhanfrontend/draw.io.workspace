@@ -776,6 +776,21 @@
         <mxCell id="oN9LSeVMnhPYBdvzEz4S-17" value="比较级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="848" y="110" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="oN9LSeVMnhPYBdvzEz4S-19" value="时间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1350.63" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oN9LSeVMnhPYBdvzEz4S-20" value="地点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1409.5" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oN9LSeVMnhPYBdvzEz4S-21" value="程度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1471.5" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oN9LSeVMnhPYBdvzEz4S-22" value="方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1531" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oN9LSeVMnhPYBdvzEz4S-23" value="语气" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="110" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
