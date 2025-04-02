@@ -875,6 +875,12 @@
         <mxCell id="FwfTUuquMHSMC5wSrfFZ-8" value="零冠词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="787" y="270" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FwfTUuquMHSMC5wSrfFZ-12" value="数词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FwfTUuquMHSMC5wSrfFZ-13" value="量词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="390" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
