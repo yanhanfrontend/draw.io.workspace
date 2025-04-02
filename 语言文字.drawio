@@ -881,6 +881,12 @@
         <mxCell id="FwfTUuquMHSMC5wSrfFZ-13" value="量词" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="390" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="FwfTUuquMHSMC5wSrfFZ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="FwfTUuquMHSMC5wSrfFZ-14" target="39l9zTleFLtUQJY5lR-o-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FwfTUuquMHSMC5wSrfFZ-14" value="身份、特征、性质、状态" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1380" y="920" width="140" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
