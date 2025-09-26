@@ -211,6 +211,24 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-76" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HCS驱动服务管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1600" width="140" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-77" target="m1kAraEHEm_9mK_-Fzff-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-77" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;跟踪调试&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
@@ -219,6 +237,24 @@
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-80" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;配置管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="1720" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-87" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HiTraceChain&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-88" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HiColloie&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1500" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-89" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HiSysEvent&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1560" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-90" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HiDump&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1620" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-91" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HiView&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-92" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;RK3568&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="1740" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
