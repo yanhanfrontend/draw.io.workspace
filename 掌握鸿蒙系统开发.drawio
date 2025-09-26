@@ -77,15 +77,15 @@
           <mxGeometry x="470" y="1120" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-16" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;驱动开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1320" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="1440" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-17" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;内核级设备开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1240" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="m1kAraEHEm_9mK_-Fzff-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-18" target="m1kAraEHEm_9mK_-Fzff-17">
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-18" target="m1kAraEHEm_9mK_-Fzff-58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m1kAraEHEm_9mK_-Fzff-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-18" target="m1kAraEHEm_9mK_-Fzff-16">
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-18" target="m1kAraEHEm_9mK_-Fzff-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-18" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;硬件开发（南向）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -142,8 +142,35 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-30" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Stage模型进阶-进程通信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="400" width="157" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-58" target="m1kAraEHEm_9mK_-Fzff-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-58" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;OpenHarmony内核&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1180" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-59" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;搭建OpenHarmony开发环境&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1180" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-62" target="m1kAraEHEm_9mK_-Fzff-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-62" target="m1kAraEHEm_9mK_-Fzff-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-62" target="m1kAraEHEm_9mK_-Fzff-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-62" target="m1kAraEHEm_9mK_-Fzff-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-62" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;实战级工业设备开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1360" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-63" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;鸿蒙系统设备管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1260" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-64" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;鸿蒙系统移植和裁剪定制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="1320" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
