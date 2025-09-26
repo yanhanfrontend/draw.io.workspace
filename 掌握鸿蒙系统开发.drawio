@@ -13,8 +13,11 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-3" value="" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="370" width="60" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-5" target="m1kAraEHEm_9mK_-Fzff-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-5" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;应用开发（北向）&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="100" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-6" target="m1kAraEHEm_9mK_-Fzff-29">
           <mxGeometry relative="1" as="geometry" />
@@ -25,8 +28,11 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-6" target="m1kAraEHEm_9mK_-Fzff-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-6" target="m1kAraEHEm_9mK_-Fzff-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-6" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Stage模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-7" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;gcc交叉编译&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="940" width="90" height="40" as="geometry" />
@@ -55,8 +61,11 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-13" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;视频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-14" target="m1kAraEHEm_9mK_-Fzff-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-14" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;通知与窗口管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="510" y="400" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-15" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;手动交叉编译鸿蒙so库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1120" width="120" height="40" as="geometry" />
@@ -74,7 +83,7 @@
           <mxGeometry x="470" y="1060" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-20" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;共享内存模型与Actor模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="770" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-21" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;分布式应用&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="800" width="80" height="40" as="geometry" />
@@ -82,11 +91,14 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-22" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;UIAbility组件&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-23" target="m1kAraEHEm_9mK_-Fzff-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-23" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;电话服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="400" y="400" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-24" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;音频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="870" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-25" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Makefile语法&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1000" width="100" height="40" as="geometry" />
@@ -103,8 +115,11 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-30" target="m1kAraEHEm_9mK_-Fzff-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-30" target="m1kAraEHEm_9mK_-Fzff-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-30" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;Stage模型进阶-进程通信&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="707" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="670" y="400" width="157" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
