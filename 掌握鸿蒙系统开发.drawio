@@ -76,8 +76,23 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-15" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;手动交叉编译鸿蒙so库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1120" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-16" target="m1kAraEHEm_9mK_-Fzff-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-16" target="m1kAraEHEm_9mK_-Fzff-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-16" target="m1kAraEHEm_9mK_-Fzff-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-16" target="m1kAraEHEm_9mK_-Fzff-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-16" target="m1kAraEHEm_9mK_-Fzff-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-16" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;驱动开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1440" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="1600" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-17" target="m1kAraEHEm_9mK_-Fzff-70">
           <mxGeometry relative="1" as="geometry" />
@@ -181,8 +196,29 @@
         <mxCell id="m1kAraEHEm_9mK_-Fzff-70" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;物联网开发&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="1380" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-71" target="m1kAraEHEm_9mK_-Fzff-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-71" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;多媒体开发&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-74" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HDF&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-75" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;驱动加载&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-76" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;HCS驱动服务管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1600" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-77" value="&lt;font face=&quot;默认字体&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;跟踪调试&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-79" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;驱动消息机制管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1660" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-80" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;配置管理&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1720" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
