@@ -56,10 +56,13 @@
           <mxGeometry x="240" y="880" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-12" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;一次开发，多端部署&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1190" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="1070" y="400" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-13" target="m1kAraEHEm_9mK_-Fzff-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-13" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;视频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="400" width="120" height="40" as="geometry" />
+          <mxGeometry x="970" y="400" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-14" target="m1kAraEHEm_9mK_-Fzff-30">
           <mxGeometry relative="1" as="geometry" />
@@ -96,6 +99,9 @@
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-23" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;电话服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m1kAraEHEm_9mK_-Fzff-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m1kAraEHEm_9mK_-Fzff-24" target="m1kAraEHEm_9mK_-Fzff-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="m1kAraEHEm_9mK_-Fzff-24" value="&lt;span style=&quot;font-family: 默认字体; font-size: 14px; background-color: rgb(248, 249, 250);&quot;&gt;音频&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="870" y="400" width="60" height="40" as="geometry" />
