@@ -22,17 +22,25 @@
           <mxGeometry x="280" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1BAY7PBObOWhtPEf-iT-1" value="KMP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="-120" width="80" height="40" as="geometry" />
+          <mxGeometry x="120" y="-280" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1BAY7PBObOWhtPEf-iT-2" value="NDK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="A1BAY7PBObOWhtPEf-iT-4" value="Kotlin/JS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-40" width="80" height="40" as="geometry" />
+          <mxGeometry x="80" y="-200" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A1BAY7PBObOWhtPEf-iT-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="A1BAY7PBObOWhtPEf-iT-5" target="A1BAY7PBObOWhtPEf-iT-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A1BAY7PBObOWhtPEf-iT-5" value="Kotlin/Native" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-40" width="80" height="40" as="geometry" />
+          <mxGeometry x="200" y="-200" width="80" height="40" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;img src=&quot;https://pic4.zhimg.com/v2-4ad0c7274e4a603675861eecfc0dbbbb_r.jpg&quot;&gt;" link="&lt;img src=&quot;https://pic4.zhimg.com/v2-4ad0c7274e4a603675861eecfc0dbbbb_r.jpg&quot;&gt;" id="A1BAY7PBObOWhtPEf-iT-7">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="320" y="-365" width="560" height="370" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
