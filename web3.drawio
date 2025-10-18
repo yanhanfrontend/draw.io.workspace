@@ -4,32 +4,47 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjz6W6rn2w06RCAWxmLH-1" target="cjz6W6rn2w06RCAWxmLH-2">
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cjz6W6rn2w06RCAWxmLH-1" target="cjz6W6rn2w06RCAWxmLH-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-1" value="大家都知道区块链市场的机会很多，暴涨暴跌，因此借钱去炒币的人就特别多，所以在区块链上“借”的需求特别旺盛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-1" value="借钱去炒币的人就特别多，“借”的需求特别旺盛" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-2" value="稳定币的年化收益率一直处在一个较高的位置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-2" value="稳定币的年化收益率一直处在一个较高的位置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjz6W6rn2w06RCAWxmLH-4" target="cjz6W6rn2w06RCAWxmLH-5">
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cjz6W6rn2w06RCAWxmLH-4" target="cjz6W6rn2w06RCAWxmLH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-4" value="区块链" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-4" value="区块链" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="400" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-5" value="透明" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-5" value="透明" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="570" y="20" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cjz6W6rn2w06RCAWxmLH-7" target="cjz6W6rn2w06RCAWxmLH-8">
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cjz6W6rn2w06RCAWxmLH-7" target="cjz6W6rn2w06RCAWxmLH-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-7" value="平台很多，竞争激烈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-7" value="平台很多，竞争激烈" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="270" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cjz6W6rn2w06RCAWxmLH-8" value="撮合费下降" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cjz6W6rn2w06RCAWxmLH-8" value="撮合费下降" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_AEL9li7n4rZTKdpWYOn-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_AEL9li7n4rZTKdpWYOn-1" target="cjz6W6rn2w06RCAWxmLH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_AEL9li7n4rZTKdpWYOn-1" value="区块链市场的机会很多，暴涨暴跌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_AEL9li7n4rZTKdpWYOn-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_AEL9li7n4rZTKdpWYOn-3" target="_AEL9li7n4rZTKdpWYOn-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_AEL9li7n4rZTKdpWYOn-3" value="加密货币交易所" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_AEL9li7n4rZTKdpWYOn-4" value="传统银行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
