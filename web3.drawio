@@ -8,10 +8,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cjz6W6rn2w06RCAWxmLH-1" value="借钱炒币的人多，“借”的需求旺盛" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="140" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjz6W6rn2w06RCAWxmLH-2" value="稳定币年化收益率高" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="420" y="480" width="120" height="40" as="geometry" />
+          <mxGeometry x="420" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cjz6W6rn2w06RCAWxmLH-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cjz6W6rn2w06RCAWxmLH-4" target="cjz6W6rn2w06RCAWxmLH-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_AEL9li7n4rZTKdpWYOn-1" value="区块链市场机会多，暴涨暴跌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="480" width="100" height="40" as="geometry" />
+          <mxGeometry y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_AEL9li7n4rZTKdpWYOn-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_AEL9li7n4rZTKdpWYOn-3" target="_AEL9li7n4rZTKdpWYOn-7">
           <mxGeometry relative="1" as="geometry" />
@@ -77,7 +77,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_AEL9li7n4rZTKdpWYOn-16" value="超额抵押" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="80" height="40" as="geometry" />
+          <mxGeometry x="300" y="440" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
